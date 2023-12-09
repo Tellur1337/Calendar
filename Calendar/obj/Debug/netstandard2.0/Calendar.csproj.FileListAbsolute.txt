@@ -1,0 +1,15 @@
+C:\Users\tellu\source\repos\Calendar\Calendar\bin\Debug\netstandard2.0\Calendar.deps.json
+C:\Users\tellu\source\repos\Calendar\Calendar\bin\Debug\netstandard2.0\Calendar.dll
+C:\Users\tellu\source\repos\Calendar\Calendar\bin\Debug\netstandard2.0\ref\Calendar.dll
+C:\Users\tellu\source\repos\Calendar\Calendar\bin\Debug\netstandard2.0\Calendar.pdb
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.AssemblyInfo.cs
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.dll
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\refint\Calendar.dll
+C:\Users\tellu\source\repos\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.pdb

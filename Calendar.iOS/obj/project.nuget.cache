@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxg24g4dabuULYUMb+J+C88t+QJ/owD9LCC/8er3KBWrHRXM9jGX0mcAZKNMWC7xf1isR/wfqd6fFodii8KeWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tellu\\source\\repos\\Calendar\\Calendar.iOS\\Calendar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tellu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tellu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tellu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
